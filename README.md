@@ -37,3 +37,16 @@ Trabalharemos com aplicações web de diversos tipo: Simples, APIs, CRUD complet
 - [Canal do Felipe Deschamps](https://www.youtube.com/c/FilipeDeschamps)
 
 ## Bibliografia básica
+
+Todos os títulos indicados abaixo estão disponíveis nos catálogos online da biblioteca da Uninove.
+
+Lembre-se que é necessário utilizar seu e-mail institucional (@uni9.edu.br) para acessar.
+
+- [Java: como programar](https://plataforma.bvirtual.com.br/Acervo/Publicacao/39590), Deitel & Deitel, 2016
+- [Programação orientada a objetos com JAVA sem mistérios](https://aapa.uninove.br/seu/SEU0255/download_ebook.php?livro=ZDBkMGE5YTA3NDgwZGJiNTc1ZDFiMzcwZjg4ODZkNjBfNzAyMzY0), Teruel, E. C., 2016
+- [Head First Java](https://learning.oreilly.com/library/view/head-first-java/9781492091646/), Sierra, K et. al., 2022
+- [Java: First Steps](https://learning.oreilly.com/playlists/60ea5b20-0058-48d0-8822-4ad91cb91bdd/)
+- [Effective Java](https://learning.oreilly.com/library/view/effective-java-3rd/9780134686097/), Bloch, J., 2017
+- [Java Fundamentals](https://learning.oreilly.com/videos/java-fundamentals/10000DIHV2021145/), Greencroft, M., 2022
+- [Java Enterprise in a Nutshell](https://learning.oreilly.com/library/view/java-enterprise-in/0596101422/), Farley, J. e Crawford W., 2005
+- [Java Enterprise Best Practices](https://learning.oreilly.com/library/view/java-enterprise-best/0596003846/), 2002
