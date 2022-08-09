@@ -10,6 +10,10 @@ Classroom da disciplina: EM BREVE
 
 ## Atividades
 
+Lembre-se que as atividades devem ser feitas via Classroom (usando sua conta institucional @uni9.edu.br)
+
+- Essa disciplina ainda não demanda nenhuma atividade
+
 ## Preparação do ambiente de desenvolvimento
 
 ## Critérios de Avaliação
