@@ -16,6 +16,12 @@ Lembre-se que as atividades devem ser feitas via Classroom (usando sua conta ins
 
 ## Preparação do ambiente de desenvolvimento
 
+A preparação do ambiente de desenvolvimento foi montada na primeira aula da disciplina, em conjunto com a turma. Para acessar o "passo a passo".
+
+[MATERIAL COM A PREPARAÇÃO DO AMBIANTE](https://docs.google.com/document/d/1lfa9Kshcx2s-DQQ0XhseHSJLpiQ7agXFQLreKdfxCHo/edit?usp=sharing)
+
+Lembre-se que é necessário utilizar o e-mail institucional para acessar o documento acima.
+
 ## Critérios de Avaliação
 
 A média final do professor (AV1) é dada única e exclusicamente pela média das atividades.
