@@ -14,6 +14,14 @@ Classroom da disciplina: EM BREVE
 
 ## Critérios de Avaliação
 
+A média final do professor (AV1) é dada única e exclusicamente pela média das atividades.
+
+As atividades serão sempre de múltipla escolha ou dissertativas e terão ao menos 15 dias para realização.
+
+As atividades serão passadas preferencialmente via Classroom.
+
+Durante as aulas o professor poderá aplicar atividades pontuais.
+
 ## Mini ementa da disciplina
 
 ## Links interesantes
