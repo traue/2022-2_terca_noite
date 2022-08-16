@@ -1,10 +1,10 @@
 # Desenvolvimento Web
 
-Turma 12 - Terças - Noturno
+Turma 22 - Terças - Noturno
 
 **E-mail do prof:** thiago.traue@uni9.pro.br
 
-Classroom da disciplina: EM BREVE
+Classroom da disciplina: [LINK](https://classroom.google.com/c/NDg4ODEyMjA2NjI3?cjc=ttzqz5g)
 
 ---
 
