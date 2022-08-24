@@ -53,6 +53,14 @@ public class Principal {
         
         //lendo valores do teclado:
         Scanner sc = new Scanner(System.in);
+        int v1, v2;
         
+        System.out.print("Informe o primeiro valor: ");
+        v1 = sc.nextInt();
+        
+        System.out.print("Informe o segundo valor: ");
+        v2 = sc.nextInt();
+        
+        System.out.println("A sominha deles é " + (v1 + v2));
     }
 }
