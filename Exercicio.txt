@@ -1,0 +1,25 @@
+Usando o projeto IMC como base crie um novo projeto 
+de uma calculadora de equações de segundo grau usando o 
+método de Bhaskara.
+
+Lembre-se que uma equação do 2ª grau tem este formato
+
+
+    ax2 + bx + c = 0
+
+(Entradas a, b e c)
+
+Ela possui duas raizes (x' e x"). Para encontrar as raízes:
+
+    Delta = (b * b) - 4 * a * c
+
+
+Se delta não for negativo, calulcar as raizes:
+
+    X' = [-b + RAIZ(delta)] / (2 * a)
+
+    X" = [-b - RAIZ(delta)] / (2 * a)
+
+
+Se o delta for negativo, não existem raízes reais para 
+essa equação (informar ao usuário)
