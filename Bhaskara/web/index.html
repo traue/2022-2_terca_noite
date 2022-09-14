@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Bhaskara</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <style>
+            .texto-topo {
+                font-size: 24px; 
+                font-family: fantasy;
+                margin-top: 30px;
+            }
+            
+            .fornulario {
+                margin-top: 20px;
+                margin-left: 50px; 
+                font-size: 20px;
+                font-family: fantasy;
+            }
+            
+            input {
+                width: 45px;
+            }
+            
+            .div-bt {
+                margin-top: 30px;
+            }
+            
+            input[type="submit"] {
+                background-color: pink; 
+                width: 250px;
+                font-size: 24px;
+            }
+            
+        </style>
+    </head>
+    <body>
+        <h1>Bhaskara</h1>
+        <hr>
+        <div class="texto-topo">
+            Insira uma equação quadrática no formato <b>ax² + bx + c = 0</b>
+        </div>
+
+        <div class="fornulario">
+            <form method="post" action="bhaskara.jsp">
+
+                <input type="number" name="valorA" placeholder="a" required>
+
+                <label>x² + </label>
+
+                <input type="number" name="valorB" placeholder="b" required>
+
+                <label>x + </label>
+
+                <input type="number" name="valorC" placeholder="c" required>
+
+                <label>= 0</label>
+
+                <div class="div-bt">
+                    <input type="submit" value="Calcular">
+                </div>
+            </form>
+        </div>
+    </body>
+</html>
