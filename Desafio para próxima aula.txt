@@ -1,0 +1,5 @@
+Fica como desafio para próxima aula a implementação de um projeto
+JEE (use o projeto de Bhaskara como base) que resolva o problema da conversão da temperatura,
+de Celcius para Fahrenheit e vice versa.
+
+Pesquise sobre as fórmulas de conversão!
