@@ -12,7 +12,8 @@ Classroom da disciplina: [LINK](https://classroom.google.com/c/NDg4ODEyMjA2NjI3?
 
 Lembre-se que as atividades devem ser feitas via Classroom (usando sua conta institucional @uni9.edu.br)
 
-- Essa disciplina ainda não demanda nenhuma atividade
+- Atividade 1 - De 20.09 até 27.09, 19h
+- Atividade 2 - 04.10
 
 ## Preparação do ambiente de desenvolvimento
 
