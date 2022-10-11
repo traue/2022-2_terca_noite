@@ -10,10 +10,12 @@ Classroom da disciplina: [LINK](https://classroom.google.com/c/NDg4ODEyMjA2NjI3?
 
 ## Atividades
 
-Lembre-se que as atividades devem ser feitas via Classroom (usando sua conta institucional @uni9.edu.br)
+Lembre-se que as atividades devem ser feitas via Classroom (usando sua conta institucional @uni9.edu.br) e individualmente.
 
-- Atividade 1 - De 20.09 até 27.09, 19h
+- Atividade 1 - De 20.09 até 27.09 19h
 - Atividade 2 - 04.10
+- Atividade 3 - 11.10 até 01.11 19h
+- Atividade 4 - 11.10
 
 ## Preparação do ambiente de desenvolvimento
 
