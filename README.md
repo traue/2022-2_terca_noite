@@ -6,7 +6,7 @@ Prof. Thiago G. Traue
 
 **E-mail:** thiago.traue@uni9.pro.br
 
-**Classroom da disciplina: ** [NESTE LINK](https://classroom.google.com/c/NDg4ODEyMDQ1OTA4?cjc=vontgqu)
+**Classroom da disciplina:** [NESTE LINK](https://classroom.google.com/c/NDg4ODEyMDQ1OTA4?cjc=vontgqu)
 
 ***
 
