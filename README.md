@@ -12,7 +12,9 @@ Prof. Thiago G. Traue
 
 ## Atividades
 
-Essa disciplina ainda não demanda atividades. 
+Atividades demandadas por esta disciplina:
+
+- Atividade 1: 25.10 até 22.11, 19:30h
 
 Todas as atividades deverão ser realizadas via Classroom (link no início deste texto)
 
