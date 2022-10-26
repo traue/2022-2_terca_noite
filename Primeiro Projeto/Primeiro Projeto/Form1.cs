@@ -1,11 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace Primeiro_Projeto
@@ -15,6 +8,11 @@ namespace Primeiro_Projeto
         public Form1()
         {
             InitializeComponent();
+        }
+
+        private void btBoasVindas_Click(object sender, EventArgs e)
+        {
+            lbResultado.Text = "Olá " + txtNome.Text + " " + txtSobrenome.Text + ", seja bem-vindo(a)!";
         }
     }
 }
