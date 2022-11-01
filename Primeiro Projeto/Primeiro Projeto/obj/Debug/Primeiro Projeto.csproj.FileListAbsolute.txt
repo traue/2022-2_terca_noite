@@ -2,3 +2,10 @@ Z:\3_noite\Primeiro Projeto\Primeiro Projeto\obj\Debug\Primeiro Projeto.csproj.A
 Z:\3_noite\Primeiro Projeto\Primeiro Projeto\obj\Debug\Primeiro Projeto.csproj.SuggestedBindingRedirects.cache
 Z:\3_noite\Primeiro Projeto\Primeiro Projeto\obj\Debug\Primeiro_Projeto.Properties.Resources.resources
 Z:\3_noite\Primeiro Projeto\Primeiro Projeto\obj\Debug\Primeiro Projeto.csproj.GenerateResource.cache
+Z:\3_noite\Primeiro Projeto\Primeiro Projeto\bin\Debug\Primeiro Projeto.exe.config
+Z:\3_noite\Primeiro Projeto\Primeiro Projeto\bin\Debug\Primeiro Projeto.exe
+Z:\3_noite\Primeiro Projeto\Primeiro Projeto\bin\Debug\Primeiro Projeto.pdb
+Z:\3_noite\Primeiro Projeto\Primeiro Projeto\obj\Debug\Primeiro_Projeto.Form1.resources
+Z:\3_noite\Primeiro Projeto\Primeiro Projeto\obj\Debug\Primeiro Projeto.csproj.CoreCompileInputs.cache
+Z:\3_noite\Primeiro Projeto\Primeiro Projeto\obj\Debug\Primeiro Projeto.exe
+Z:\3_noite\Primeiro Projeto\Primeiro Projeto\obj\Debug\Primeiro Projeto.pdb
