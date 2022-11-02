@@ -1,0 +1,11 @@
+Z:\3_noite\Projeto Viagem\projeto\Projeto Viagem\Projeto Viagem\bin\Debug\Projeto Viagem.exe.config
+Z:\3_noite\Projeto Viagem\projeto\Projeto Viagem\Projeto Viagem\bin\Debug\Projeto Viagem.exe
+Z:\3_noite\Projeto Viagem\projeto\Projeto Viagem\Projeto Viagem\bin\Debug\Projeto Viagem.pdb
+Z:\3_noite\Projeto Viagem\projeto\Projeto Viagem\Projeto Viagem\obj\Debug\Projeto Viagem.csproj.AssemblyReference.cache
+Z:\3_noite\Projeto Viagem\projeto\Projeto Viagem\Projeto Viagem\obj\Debug\Projeto Viagem.csproj.SuggestedBindingRedirects.cache
+Z:\3_noite\Projeto Viagem\projeto\Projeto Viagem\Projeto Viagem\obj\Debug\Projeto_Viagem.FrmPrincipal.resources
+Z:\3_noite\Projeto Viagem\projeto\Projeto Viagem\Projeto Viagem\obj\Debug\Projeto_Viagem.Properties.Resources.resources
+Z:\3_noite\Projeto Viagem\projeto\Projeto Viagem\Projeto Viagem\obj\Debug\Projeto Viagem.csproj.GenerateResource.cache
+Z:\3_noite\Projeto Viagem\projeto\Projeto Viagem\Projeto Viagem\obj\Debug\Projeto Viagem.csproj.CoreCompileInputs.cache
+Z:\3_noite\Projeto Viagem\projeto\Projeto Viagem\Projeto Viagem\obj\Debug\Projeto Viagem.exe
+Z:\3_noite\Projeto Viagem\projeto\Projeto Viagem\Projeto Viagem\obj\Debug\Projeto Viagem.pdb
