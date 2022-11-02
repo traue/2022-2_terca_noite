@@ -42,3 +42,19 @@ Este professor não aplica nenhuma prova, ou seja, sua nota final é composta ex
 Nessa disciplina vamos aprender a desenvolver aplicações Windows com C# utilizando a tecnologia WinForms. 
 
 Desenvolveremos vários conceitos importantes como lógica de programação, principais componentes visuais de uma aplicação desktop, bancos de dados, front e backend e muito conceitos importantes de programação visual. 
+
+## Padrões de nomenclaturas
+
+- hello - lower case
+
+- WORLD - upper case
+
+------------------
+
+- HelloWorld - Pascal Case
+
+- helloWorld - Camel Case
+
+- hello_world - Snake Case
+
+- hello-world - Kebab Case
