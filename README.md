@@ -43,7 +43,7 @@ Nessa disciplina vamos aprender a desenvolver aplicações Windows com C# utiliz
 
 Desenvolveremos vários conceitos importantes como lógica de programação, principais componentes visuais de uma aplicação desktop, bancos de dados, front e backend e muito conceitos importantes de programação visual. 
 
-## Padrões de nomemclatura
+## Padrões de nomenclaturas
 
 - hello - lower case
 
