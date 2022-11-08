@@ -19,6 +19,11 @@ Atividades demandadas por esta disciplina:
 Todas as atividades deverão ser realizadas via Classroom (link no início deste texto)
 
 
+## Avaliação Integrada
+
+Data: **08/12**
+
+
 ## Preparação do ambiente de desenvolvimento
 
 Nessa disciplina utilizaremos o Visual Studio 2022 Community, exclusivamente para Windows. A instalação é bastante simples e pode ser vista no documento abaixo:
