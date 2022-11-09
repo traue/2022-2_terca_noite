@@ -16,5 +16,17 @@ namespace Projeto_Viagem
         {
             InitializeComponent();
         }
+
+        private void btnCalcular_Click(object sender, EventArgs e)
+        {
+            Viagem viagem = new Viagem();
+
+            viagem.Distancia = int.Parse(txtDistancia.Text);
+            viagem.Consumo = float.Parse(txtConsumo.Text);
+            viagem.VCombustivel = float.Parse(txtCombustivel.Text);
+            viagem.VPedagio = float.Parse(txtPedagio.Text);
+
+            //paramos aqui
+        }
     }
 }

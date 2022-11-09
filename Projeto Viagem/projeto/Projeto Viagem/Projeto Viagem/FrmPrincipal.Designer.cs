@@ -38,6 +38,8 @@
             this.txtCombustivel = new System.Windows.Forms.TextBox();
             this.txtPedagio = new System.Windows.Forms.TextBox();
             this.btnCalcular = new System.Windows.Forms.Button();
+            this.lbKm = new System.Windows.Forms.Label();
+            this.lbkml = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // lbDistancia
@@ -117,16 +119,39 @@
             this.btnCalcular.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnCalcular.Location = new System.Drawing.Point(16, 266);
             this.btnCalcular.Name = "btnCalcular";
-            this.btnCalcular.Size = new System.Drawing.Size(389, 54);
+            this.btnCalcular.Size = new System.Drawing.Size(448, 54);
             this.btnCalcular.TabIndex = 8;
             this.btnCalcular.Text = "Calcular gasto da viagem";
             this.btnCalcular.UseVisualStyleBackColor = true;
+            this.btnCalcular.Click += new System.EventHandler(this.btnCalcular_Click);
+            // 
+            // lbKm
+            // 
+            this.lbKm.AutoSize = true;
+            this.lbKm.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lbKm.Location = new System.Drawing.Point(411, 49);
+            this.lbKm.Name = "lbKm";
+            this.lbKm.Size = new System.Drawing.Size(38, 24);
+            this.lbKm.TabIndex = 9;
+            this.lbKm.Text = "Km";
+            // 
+            // lbkml
+            // 
+            this.lbkml.AutoSize = true;
+            this.lbkml.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lbkml.Location = new System.Drawing.Point(411, 104);
+            this.lbkml.Name = "lbkml";
+            this.lbkml.Size = new System.Drawing.Size(53, 24);
+            this.lbkml.TabIndex = 10;
+            this.lbkml.Text = "Km/L";
             // 
             // FrmPrincipal
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(435, 378);
+            this.ClientSize = new System.Drawing.Size(479, 378);
+            this.Controls.Add(this.lbkml);
+            this.Controls.Add(this.lbKm);
             this.Controls.Add(this.btnCalcular);
             this.Controls.Add(this.txtPedagio);
             this.Controls.Add(this.txtCombustivel);
@@ -155,6 +180,8 @@
         private System.Windows.Forms.TextBox txtCombustivel;
         private System.Windows.Forms.TextBox txtPedagio;
         private System.Windows.Forms.Button btnCalcular;
+        private System.Windows.Forms.Label lbKm;
+        private System.Windows.Forms.Label lbkml;
     }
 }
 
