@@ -40,7 +40,7 @@ Nessa disciplina utilizaremos o Visual Studio 2022 Community, exclusivamente par
 
 Todas as atividades realizadas via Classroom deverão ser feitas até o prazo limite.
 
-Teremos, ao longo do semestre de 4 a 6 atividades, todas com prazo maior ou igual a 15 dias para realização. Todas as atividades serão ministradas via Forms, ou seja, serão de múltipla escolha.
+Teremos, ao longo do semestre até 6 atividades, todas com prazo maior ou igual a 7 dias para realização. Todas as atividades serão ministradas via Forms, ou seja, serão de múltipla escolha.
 
 O professor aviasará em aula sobre a abertura de uma nova ativiadade, entretanto o sistema do Classroom os notificará por e-mail, também. Fique atento(a).
 
