@@ -26,7 +26,10 @@ namespace Projeto_Viagem
             viagem.VCombustivel = float.Parse(txtCombustivel.Text);
             viagem.VPedagio = float.Parse(txtPedagio.Text);
 
-            //paramos aqui
+            viagem.calculaViagem();
+
+            FrmRelatorio frmRelatorio = new FrmRelatorio(viagem);
+
         }
     }
 }
