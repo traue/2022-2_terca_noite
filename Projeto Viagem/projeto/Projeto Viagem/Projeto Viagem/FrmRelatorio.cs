@@ -20,6 +20,18 @@ namespace Projeto_Viagem
             this.viagem = viagem;
         }
 
-        
+        private void btFechar_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+
+        private void FrmRelatorio_Load(object sender, EventArgs e)
+        {
+            rtbRelatorio.AppendText("Reltório da Viagem" + Environment.NewLine);
+            rtbRelatorio.AppendText("-----------------------" + Environment.NewLine);
+            rtbRelatorio.AppendText($"Distância Informada: {viagem.Distancia} Km" + Environment.NewLine);
+            rtbRelatorio.AppendText("Consumo informado: " + viagem.Consumo + "Km/L" + Environment.NewLine);
+            //..
+        }
     }
 }

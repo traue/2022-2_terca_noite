@@ -28,19 +28,52 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.rtbRelatorio = new System.Windows.Forms.RichTextBox();
+            this.btFechar = new System.Windows.Forms.Button();
             this.SuspendLayout();
+            // 
+            // rtbRelatorio
+            // 
+            this.rtbRelatorio.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.rtbRelatorio.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.rtbRelatorio.Location = new System.Drawing.Point(12, 12);
+            this.rtbRelatorio.Name = "rtbRelatorio";
+            this.rtbRelatorio.Size = new System.Drawing.Size(384, 288);
+            this.rtbRelatorio.TabIndex = 0;
+            this.rtbRelatorio.Text = "";
+            // 
+            // btFechar
+            // 
+            this.btFechar.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.btFechar.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btFechar.Location = new System.Drawing.Point(12, 326);
+            this.btFechar.Name = "btFechar";
+            this.btFechar.Size = new System.Drawing.Size(384, 48);
+            this.btFechar.TabIndex = 1;
+            this.btFechar.Text = "Fechar Relatório";
+            this.btFechar.UseVisualStyleBackColor = true;
+            this.btFechar.Click += new System.EventHandler(this.btFechar_Click);
             // 
             // FrmRelatorio
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(535, 355);
+            this.ClientSize = new System.Drawing.Size(408, 386);
+            this.Controls.Add(this.btFechar);
+            this.Controls.Add(this.rtbRelatorio);
             this.Name = "FrmRelatorio";
-            this.Text = "FrmRelatorio";
+            this.Text = "Relatório da Viagem";
+            this.Load += new System.EventHandler(this.FrmRelatorio_Load);
             this.ResumeLayout(false);
 
         }
 
         #endregion
+
+        private System.Windows.Forms.RichTextBox rtbRelatorio;
+        private System.Windows.Forms.Button btFechar;
     }
 }
