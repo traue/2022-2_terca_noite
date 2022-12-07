@@ -16,7 +16,7 @@ Atividades demandadas por esta disciplina:
 
 - Atividade 1: 25.10 até 22.11, 19:30h - Encerrada
 - Atividade 2: 22.11 até 29.11, 19:30h - Encerrada
-- Atividade 3: 22.11 até 06.12, 19:30h
+- Atividade 3: 22.11 até 06.12, 19:30h - Encerrada
 
 Todas as atividades deverão ser realizadas via Classroom (link no início deste texto)
 
