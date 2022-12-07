@@ -23,6 +23,7 @@ namespace Projeto_Viagem
 
             FrmRelatorio frmRelatorio = new FrmRelatorio(viagem);
 
+            frmRelatorio.Show();
         }
     }
 }

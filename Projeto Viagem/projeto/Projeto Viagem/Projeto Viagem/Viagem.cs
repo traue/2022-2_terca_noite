@@ -15,6 +15,7 @@ namespace Projeto_Viagem
         private float qtdLitros; //representará q qtd. de litros usados na viagem
         private float vGasto; //representará o valor gasto apenas com combustível
         private float vTotal; //representará o valor total gasto na viagem
+        private float vPorKm; //representará o valor por Km rodado
         
         public int Distancia { get => distancia; set => distancia = value; }
         public float Consumo { get => consumo; set => consumo = value; }
@@ -23,6 +24,7 @@ namespace Projeto_Viagem
         public float QtdLitros { get => qtdLitros; set => qtdLitros = value; }
         public float VGasto { get => vGasto; set => vGasto = value; }
         public float VTotal { get => vTotal; set => vTotal = value; }
+        public float VPorKm { get => vPorKm; set => vPorKm = value; }
 
         //método que será "acionado" para realização dos cálculos
         public void calculaViagem()
@@ -30,6 +32,7 @@ namespace Projeto_Viagem
             qtdLitros = distancia / consumo;
             vGasto = qtdLitros * vCombustivel;
             vTotal = vGasto + vPedagio;
+            vPorKm = vTotal / distancia;
         }
     }
 }
