@@ -1,4 +1,4 @@
-# Programação Visual
+# Programação Visual - ENCERRADA
 
 Turma 20
 
@@ -9,25 +9,6 @@ Prof. Thiago G. Traue
 **Classroom da disciplina:** [NESTE LINK](https://classroom.google.com/c/NDg4ODEyMDQ1OTA4?cjc=vontgqu)
 
 ***
-
-## Atividades
-
-Atividades demandadas por esta disciplina:
-
-- Atividade 1: 25.10 até 22.11, 19:30h - Encerrada
-- Atividade 2: 22.11 até 29.11, 19:30h - Encerrada
-- Atividade 3: 22.11 até 06.12, 19:30h - Encerrada
-
-Todas as atividades deverão ser realizadas via Classroom (link no início deste texto)
-
-## Atividade de recuperação
-
-Passarei em breve
-
-## Avaliação Integrada
-
-Data: **08/12**
-
 
 ## Preparação do ambiente de desenvolvimento
 
